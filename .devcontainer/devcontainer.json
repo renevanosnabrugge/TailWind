@@ -49,11 +49,7 @@
 		"cschleiden.vscode-github-actions"
 	],
 
-	
-	"features": {
-		"ghcr.io/devcontainers/features/python:1": {
 
-		}
 	},
 
 

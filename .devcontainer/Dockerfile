@@ -1,5 +1,0 @@
-FROM mcr.microsoft.com/vscode/devcontainers/universal:1-linux
-
-USER codespace
-    
-RUN az extension add --name azure-devops
